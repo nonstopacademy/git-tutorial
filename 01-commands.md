@@ -17,11 +17,7 @@
 
     git clone username@host:/path/to/repository
 
-# Commons
-
-## List the files you've changed and those you still need to add or commit
-
-    git status
+# Saving changes
 
 ## Add one or more files to staging (index)
 
@@ -41,6 +37,10 @@
 ## Fetch and merge changes on the remote server branch to your working directory
 
     git pull origin <BRANCHNAME>
+
+## Temporarily shelves (or stashes) changes you've made to your working copy
+
+    git stash
 
 # Branch
 
@@ -65,6 +65,11 @@
     git branch -d <BRANCHNAME>
 
 # Inspection
+
+
+## List the files you've changed and those you still need to add or commit
+
+    git status
 
 ## git log
 
