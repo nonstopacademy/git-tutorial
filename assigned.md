@@ -1,39 +1,11 @@
 # assigned
 
-## Li Wei
-
-- git spaces
-
-
-## WeiPin
-
-- file states
-
-
-## John
-
-- undo
-
-## Jonathan
-
-- branch
-
-## Chuan Yee
-
-- merge vs rebase
-
-## Xin Ai
-
-- Inspection
-
-## Kai Xuan
-
-- conflict story
-
-## Voon Feng
-
-- saving changes
-
-## Xin Yi
-
-- setting up
+1. setting up [Xin Yi]
+2. saving changes [Voon Feng]
+3. branch [Jonathan]
+4. inspection [Xin Ai]
+5. git spaces [Li Wei]
+6. file states [WeiPin]
+7. conflict story [Kai Xuan]
+8. merge vs rebase [Chuan Yee]
+9. undo [John]
